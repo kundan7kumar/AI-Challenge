@@ -7,5 +7,8 @@ b. Run Open Source Code or Reimplement from Scratch
 Beardth Area:
 ML/DL/PGM/NLP/CV
 
+Medium Posts:
+
 Depth Area:
+
 
