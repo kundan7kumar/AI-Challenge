@@ -1,4 +1,4 @@
-# AI_Concepts
+# AI_Code Concepts
 
 Maths:
 a. Read (Redrive from Scratch)- From piece of paper
