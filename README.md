@@ -9,7 +9,7 @@ This Coding Challenges is to hone my artifical Intelligence coding skill sets .
 - Write Medium Post Weekly
 
 Topics need to be honed!!
-
+  ### Part I
 ##### : : : : : : : : : : : : : : Topics : : : : : : : : : : : : : : : : : : : : : : : : : : 
 #### PyTorch
 ###### : Synopsis : [ "Date : 1st June 2022 - 11th June 2022"]
@@ -39,17 +39,23 @@ Topics need to be honed!!
 
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
-# AI_Code Concepts
-''
+### Part II
+
+#### Theory
+
+##### Book:
+a. Ian GoodFellow
+
 Maths:
 a. Read (Redrive from Scratch)- From piece of paper
 b. Run Open Source Code or Reimplement from Scratch
 
 Beardth Area:
-ML/DL/PGM/NLP/CV
+
+CV/ML/DL/NLP/Autonomous System
 
 Medium Posts:
 
 Depth Area:
 
-
+Yet to Decide!!!
